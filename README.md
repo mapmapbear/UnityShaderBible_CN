@@ -1,1 +1,2 @@
 # UnityShaderBible_CN
+个人向的关于UnityShaderBible的中文翻译计划
